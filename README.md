@@ -36,4 +36,23 @@ The purpose of this project is to create an interactive HR Attrition Dashboard t
 
 -Download Dashboard- <a href="https://github.com/Vaibhav3004/Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Dashboard.xlsx">Click Here</a>
 
+## Project Insight
+The HR Attrition Dashboard provides key insights into employee attrition to help improve retention strategies:
+
+-Overall Attrition Rate: 34% of employees left, with 66% still active.
+-Gender Analysis: Male attrition is higher (65%) compared to female (35%).
+-Age Group: The 26-35 age group shows the highest attrition (32 employees).
+-Job Role: Highest attrition occurs among Laboratory Technicians (26) and Sales Executives (20).
+-Department: R&D faces the most attrition (72%), indicating a need for intervention.
+-Performance: 79 high-performing employees left, a concern for business productivity.
+-Education: Bachelor’s and Master’s degree holders have the highest attrition.
+-Business Travel: Employees who travel rarely (76) leave more often than frequent travelers.
+-Work Distance: Surprisingly, most attrition comes from employees living near the workplace.
+
+-Recommendation: Focus on reducing attrition in the R&D department, retaining high performers, and improving engagement for the 26-35 age group.
+
+## Conclusion
+-The HR Attrition Dashboard reveals high attrition among male employees, the 26-35 age group, and key roles like Laboratory Technicians. The R&D department faces the highest turnover, requiring immediate attention. To reduce attrition, the company should focus on improving conditions in R&D, engaging mid-career professionals, and retaining high performers through incentives and development opportunities.
+
+-This dashboard is a valuable tool for making data-driven decisions to improve employee retention and satisfaction.
 
