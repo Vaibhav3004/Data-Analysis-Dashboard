@@ -4,3 +4,17 @@ The purpose of this project is to create an interactive HR Attrition Dashboard t
 
 ## Dataset Used
 - <a href="https://github.com/Vaibhav3004/Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Dataset.xlsx">Dataset</a>
+
+## Key Questions (KPI's)
+-What is the overall attrition rate?
+-Which gender has a higher attrition rate?
+-Which age group has the highest attrition?
+-Which job roles experience the most attrition?
+-What is the department-wise attrition rate?
+-Does education level affect attrition rates?
+-Is there a difference in attrition between high and low performers?
+-Does business travel frequency affect employee attrition?
+-How does distance from work affect employee attrition?
+-What is the ratio of active to attrition employees?
+
+-Dashboard Interaction - <a href="
