@@ -34,5 +34,6 @@ The purpose of this project is to create an interactive HR Attrition Dashboard t
 ## Dashboard
 ![Screenshot 2024-09-25 025533](https://github.com/user-attachments/assets/a26c3dd0-6899-4f27-b977-4e5d672d2c05)
 
+-Download Dashboard- <a href="https://github.com/Vaibhav3004/Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Dashboard.xlsx">Click Here</a>
 
 
