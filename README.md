@@ -3,7 +3,7 @@
 The purpose of this project is to create an interactive HR Attrition Dashboard that helps analyze employee attrition in an organization. The dashboard provides actionable insights into how employees leave the company based on key parameters like gender, age, performance, job role, and education. This can be used by HR to improve employee retention strategies.
 
 ## Dataset Used
-- <a href="https://github.com/Vaibhav3004/Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Dataset.xlsx">Dataset</a>
+- <a href="https://github.com/Vaibhav3004/Excel-Dashboard/blob/main/HR%20Attrition%20Dataset.xlsx">Dataset</a>
 
 ## Key Questions (KPI's)
 -What is the overall attrition rate?
@@ -17,7 +17,7 @@ The purpose of this project is to create an interactive HR Attrition Dashboard t
 -How does distance from work affect employee attrition?
 -What is the ratio of active to attrition employees?
 
--Dashboard Interaction - <a href="https://github.com/Vaibhav3004/Data-Analysis-Dashboard/blob/main/Screenshot%202024-09-25%20025533.png">View Dashboard</a>
+-Dashboard Interaction - <a href="https://github.com/Vaibhav3004/Excel-Dashboard/blob/main/Screenshot%202024-09-25%20025533.png">View Dashboard</a>
 
 ## Process
 -Data Collection: Employee information including demographics, job roles, performance, education, and attrition data.
@@ -34,7 +34,7 @@ The purpose of this project is to create an interactive HR Attrition Dashboard t
 ## Dashboard
 ![Screenshot 2024-09-25 025533](https://github.com/user-attachments/assets/a26c3dd0-6899-4f27-b977-4e5d672d2c05)
 
--Download Dashboard- <a href="https://github.com/Vaibhav3004/Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Dashboard.xlsx">Click Here</a>
+-Download Dashboard- <a href="https://github.com/Vaibhav3004/Excel-Dashboard/blob/main/HR%20Attrition%20Dashboard.xlsx">Click Here</a>
 
 ## Project Insight
 The HR Attrition Dashboard provides key insights into employee attrition to help improve retention strategies:
